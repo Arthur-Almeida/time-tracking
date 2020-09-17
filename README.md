@@ -1,1 +1,2 @@
-# time-tracking
+# Time Tracking App
+Time tracking application made with React Native that allows the user add, delete, and modify various timers. Each timer corresponds to a different task that the user would like to keep time for.
